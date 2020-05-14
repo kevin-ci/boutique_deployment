@@ -1,1 +1,0 @@
-# Boutique-Ado Product-Details
