@@ -26,7 +26,7 @@ SECRET_KEY = 'z-5#=mu-_8(qulo(d400kqbn=_9j8%p$mn)k*z!)0lp5o)_mgl'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['kevin-ci-boutique-deployment.herokuapp.com']
 
 
 # Application definition
